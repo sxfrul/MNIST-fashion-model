@@ -1,4 +1,4 @@
-# `MNISt (fashion) Inference Model`
+# `MNIST Fashion Inference Model`
 
 ![Static Badge](https://img.shields.io/badge/mission-to%20learn%20ML%20basics-purple)
 <br />
